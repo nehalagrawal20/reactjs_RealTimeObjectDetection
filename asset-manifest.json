@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactjs_RealTimeObjectDetection/static/css/main.0cc4add3.chunk.css",
+    "main.js": "/reactjs_RealTimeObjectDetection/static/js/main.e8aad554.chunk.js",
+    "main.js.map": "/reactjs_RealTimeObjectDetection/static/js/main.e8aad554.chunk.js.map",
+    "runtime-main.js": "/reactjs_RealTimeObjectDetection/static/js/runtime-main.bd042cf4.js",
+    "runtime-main.js.map": "/reactjs_RealTimeObjectDetection/static/js/runtime-main.bd042cf4.js.map",
+    "static/js/2.8a7d9c30.chunk.js": "/reactjs_RealTimeObjectDetection/static/js/2.8a7d9c30.chunk.js",
+    "static/js/2.8a7d9c30.chunk.js.map": "/reactjs_RealTimeObjectDetection/static/js/2.8a7d9c30.chunk.js.map",
+    "index.html": "/reactjs_RealTimeObjectDetection/index.html",
+    "precache-manifest.fceed4b9479891249846044dad625a69.js": "/reactjs_RealTimeObjectDetection/precache-manifest.fceed4b9479891249846044dad625a69.js",
+    "service-worker.js": "/reactjs_RealTimeObjectDetection/service-worker.js",
+    "static/css/main.0cc4add3.chunk.css.map": "/reactjs_RealTimeObjectDetection/static/css/main.0cc4add3.chunk.css.map",
+    "static/js/2.8a7d9c30.chunk.js.LICENSE.txt": "/reactjs_RealTimeObjectDetection/static/js/2.8a7d9c30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd042cf4.js",
+    "static/js/2.8a7d9c30.chunk.js",
+    "static/css/main.0cc4add3.chunk.css",
+    "static/js/main.e8aad554.chunk.js"
+  ]
+}
